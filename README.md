@@ -26,5 +26,5 @@ https://public.tableau.com/views/LACROSsEVIZ/LaCrosse?:language=en-US&:sid=&:red
 - **Data Cleaning Notebook:** IDP-Cleaning.ipynb contains all the preprocessing and cleaning steps applied to the raw data.
 - **Data Visualization Notebook:** IDP-Visuals.ipynb showcases the development of various visualizations.
 - **SQL Scripts:** lacroseUpdate.sql and tuberc.sql for database manipulations and data extraction.
-- **Visualization Screenshots:** Images of the Tableau dashboards that provide a quick overview of the findings.
+- **Visualizations:** Images of the Tableau dashboards that provide a quick overview of the findings.
 
